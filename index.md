@@ -70,3 +70,10 @@ layout: default
 
 　　最后，你有没有遇到过那种“失联”的旅行时刻？其实偶尔放下手机，专注眼前的美景和身边的人，或许才是来哥伦比亚的真正意义。手机卡只是工具，别让它绑住了你探险的心。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Colombia eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/colombia-data-plans)
